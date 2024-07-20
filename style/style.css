@@ -1,0 +1,20 @@
+.todo{
+    max-width:500px;
+    height:300px;
+    margin: 100px auto;
+}
+
+input[type="text"]{
+    padding: 10px;
+    width: 50%;
+    font-size: 15px;
+}
+
+button{
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(37, 37, 141);
+    font-size: 15px;
+    margin-left: 20px;
+}
